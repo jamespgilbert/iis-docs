@@ -31,7 +31,7 @@ The SMTP server is not installed by default.
 2. Under **Features**, select **Add Features**.
 3. Select the **SMTP Server** check box.
 4. Click **Add Required Role Services**. If there are any missing roles required for the SMTP installation, Windows Server® 2008 R2 or Windows Server® 2008 installs them. Click **Next**.
-5. You need to step through the entire wizard again, even though IIS is already installed (IIS 6 Management Compatibility and the IIS 6 Management Console must be installed for SMTP to work).  
+5. You need to step through the entire wizard again, even though IIS is already installed (IIS 6 Metabase Compatibility and the IIS 6 Management Console must be installed for SMTP to work).  
 
     [![](configure-smtp-e-mail-in-iis-7-and-above/_static/image2.jpg)](configure-smtp-e-mail-in-iis-7-and-above/_static/image1.jpg)
 
